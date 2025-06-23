@@ -9,62 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Developmental Psychology, Harvard University, 2027 (expected)
-* A.M. in Education, Harvard University
-* A.B. in Mathematics & Neuroscience, Harvard College
-
-# Experience
-
-### Harvard University — Cambridge, MA  
-**Leverett Resident Tutor (Term-Time)**  
-_2024–Present_
-
-### Harvard University — Cambridge, MA  
-**Teaching Fellow for The Emotion Mind**  
-_Professor: Leah Somerville, Ph.D._  
-_Spring 2024_
-
-### Harvard University — Cambridge, MA  
-**Teaching Fellow for Developmental Psychology**  
-_Professor: Ashley Thomas, Ph.D._  
-_Fall 2024_
-
-### Lotus Learning — Cambridge, MA  
-**Academic and Executive Functioning Coach and Tutor**  
-_2021–2024_
-
-### Phillips Academy — Andover, MA  
-**Summer Calculus Instructor and Residential Mentor**  
-_Summer 2022_
-
-### Boston Preparatory Charter School — Hyde Park, MA  
-**High School Algebra II Mathematics Teacher**  
-_2021–2022_
-
-### Harvard University — Cambridge, MA  
-**Mathematics and Science Tutor for the Academic Resource Center**  
-_2020–2022_
-
-### SoFlo Tutoring Company — Online  
-**SAT and ACT Tutor**  
-_2020–2021_
-
-### Harvard University — Cambridge, MA  
-**Mathematics Tutor for the Academic Tutor Program**  
-_Summer 2020_
-
-### Harvard University — Cambridge, MA  
-**Teaching Assistant at the Extension School for Basic Probability Using R**  
-_2019_
-
-### Harvard University — Cambridge, MA  
-**Course Assistant for Math 21B**  
-_2019_
-
+# Kristen Gilyard
+📧 kristen_gilyard@g.harvard.edu  
 ---
-
 # Research Experience
 
 ### The Bergelson Lab — Cambridge, MA  
@@ -101,6 +48,35 @@ _Supervisor: Yael Arbel, Ph.D., CCC-SLP_
 **Research Assistant**  
 _2019_  
 _Supervisor: Chiara Maffei, Ph.D._
+
+---
+# Education
+
+### Harvard Graduate School of Arts and Sciences — Cambridge, MA  
+**Ph.D. Candidate in Psychology** _(Expected May 2027)_  
+Advisor: Dr. Elika Bergelson
+
+### Harvard University — Cambridge, MA  
+**Master of Education**
+
+### Harvard University — Cambridge, MA  
+**A.B. in Neuroscience and Mathematics**
+
+# Teaching Experience
+
+### Harvard University — Cambridge, MA  
+**Teaching Fellow for The Emotion Mind**  
+_Professor: Leah Somerville, Ph.D._  
+_Spring 2024_
+
+### Harvard University — Cambridge, MA  
+**Teaching Fellow for Developmental Psychology**  
+_Professor: Ashley Thomas, Ph.D._  
+_Fall 2024_
+
+### Lotus Learning — Cambridge, MA  
+**Academic and Executive Functioning Coach and Tutor**  
+_2021–2024_
 
 ---
 
