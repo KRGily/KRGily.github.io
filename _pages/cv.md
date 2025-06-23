@@ -83,22 +83,22 @@ _2023_
 _Supervisor: Elizabeth J. Marsh, Ph.D._
 
 ### The Pepperberg Lab — Cambridge, MA  
-**Undergraduate Research Assistant**  
+**Research Assistant**  
 _2019–2020_  
 _Supervisor: Irene Pepperberg, Ph.D._
 
 ### The Spelke Lab — Cambridge, MA  
-**Undergraduate Research Assistant**  
+**Research Assistant**  
 _2019_  
 _Supervisor: Elizabeth Spelke, Ph.D._
 
 ### The Cognitive Neuroscience Group — Charlestown, MA  
-**Undergraduate Research Assistant**  
+**Research Assistant**  
 _2019–2021_  
 _Supervisor: Yael Arbel, Ph.D., CCC-SLP_
 
 ### The Martinos Center — Charlestown, MA  
-**Undergraduate Research Assistant**  
+**Research Assistant**  
 _2019_  
 _Supervisor: Chiara Maffei, Ph.D._
 
