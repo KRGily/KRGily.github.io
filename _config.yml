@@ -22,10 +22,10 @@ repository               : "krgily/krgily.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Kristen_Photo.jpg"
   name             : "Kristen Gilyard"
   pronouns         : "she/her"  
-  bio              : "4th yr PhD interested in early langauge learning"
+  bio              : "4th Year PhD interested in early langauge learning"
   location         : "Cambridge, MA"
   employer         : "Harvard University"
   uri              : # URL
