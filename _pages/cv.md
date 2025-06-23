@@ -11,54 +11,141 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Developmental Psychology, Harvard University, 2027 (expected)
+* A.M. in Education, Harvard University
+* A.B. in Mathematics & Neuroscience, Harvard College
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Experience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Harvard University — Cambridge, MA  
+**Leverett Resident Tutor (Term-Time)**  
+_2024–Present_
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Harvard University — Cambridge, MA  
+**Teaching Fellow for The Emotion Mind**  
+_Professor: Leah Somerville, Ph.D._  
+_Spring 2024_
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Harvard University — Cambridge, MA  
+**Teaching Fellow for Developmental Psychology**  
+_Professor: Ashley Thomas, Ph.D._  
+_Fall 2024_
+
+### Lotus Learning — Cambridge, MA  
+**Academic and Executive Functioning Coach and Tutor**  
+_2021–2024_
+
+### Phillips Academy — Andover, MA  
+**Summer Calculus Instructor and Residential Mentor**  
+_Summer 2022_
+
+### Boston Preparatory Charter School — Hyde Park, MA  
+**High School Algebra II Mathematics Teacher**  
+_2021–2022_
+
+### Harvard University — Cambridge, MA  
+**Mathematics and Science Tutor for the Academic Resource Center**  
+_2020–2022_
+
+### SoFlo Tutoring Company — Online  
+**SAT and ACT Tutor**  
+_2020–2021_
+
+### Harvard University — Cambridge, MA  
+**Mathematics Tutor for the Academic Tutor Program**  
+_Summer 2020_
+
+### Harvard University — Cambridge, MA  
+**Teaching Assistant at the Extension School for Basic Probability Using R**  
+_2019_
+
+### Harvard University — Cambridge, MA  
+**Course Assistant for Math 21B**  
+_2019_
+
+---
+
+# Research Experience
+
+### The Bergelson Lab — Cambridge, MA  
+**Graduate Research Associate**  
+_2022–Present_  
+_Supervisor: Elika Bergelson, Ph.D._
+
+### The Duke Center for Autism and Brain Development — Durham, NC  
+**Graduate Research Practicum Student**  
+_2023–2024_  
+_Supervisor: Elena Tenenbaum, Ph.D._
+
+### The Marsh Lab — Durham, NC  
+**Graduate Research Practicum Student**  
+_2023_  
+_Supervisor: Elizabeth J. Marsh, Ph.D._
+
+### The Pepperberg Lab — Cambridge, MA  
+**Undergraduate Research Assistant**  
+_2019–2020_  
+_Supervisor: Irene Pepperberg, Ph.D._
+
+### The Spelke Lab — Cambridge, MA  
+**Undergraduate Research Assistant**  
+_2019_  
+_Supervisor: Elizabeth Spelke, Ph.D._
+
+### The Cognitive Neuroscience Group — Charlestown, MA  
+**Undergraduate Research Assistant**  
+_2019–2021_  
+_Supervisor: Yael Arbel, Ph.D., CCC-SLP_
+
+### The Martinos Center — Charlestown, MA  
+**Undergraduate Research Assistant**  
+_2019_  
+_Supervisor: Chiara Maffei, Ph.D._
+
+---
+
+# Skills & Licenses
+
+- Proficient in R, Python, SAGE, Excel, LaTeX, MATLAB, Mathematica  
+- Proficient in task programming with Qualtrics  
+- Proficient in Spanish and American Sign Language  
+- Massachusetts Educator Licensure  
+
+---
+
+# Service & Outreach
+
+- **Meeting on Language in Autism Volunteer** — 2023  
+- **Duke University Neuroscience Experience High School Outreach Member** — 2022–2023  
+- **Boston Preparatory Charter School Choir Director** — 2021–2022  
+- **Harvard Non-Resident Tutor for Dunster House** — 2021–2022  
+- **MIHNUET - Music In Hospitals and Nursing Homes Using Entertainment as Therapy** — 2017–2022  
+- **Chelsea High School Summer Math Teacher** — 2021  
+
+---
+
+# Papers
+
+**Tenenbaum, E. J., Stone, C., Vu, M. H., Gilyard, K. R., Hare, M., Arunachalam, S., Bergelson, E., Frank, M. C., Hamlin, J. K., Kline Struhl, M., Landa, R. J., Lew-Williams, C., Libertus, M. E., Luyster, R. J., Markant, J., Sheinkopf, S. J., Wagner, J. B., Park, K., Grapel, J. N., Soderling, A. I., Waterman, A. K., Jeste, S.** (in press).  
+_Remote Infant Studies of Early Learning (RISE): scalable online replications of key findings in infant cognitive development._ **Developmental Psychology.**
+
+**Tenenbaum, E. J., Stone, C., Vu, M. H., Hare, M., Gilyard, K. R., Arunachalam, S., Bergelson, E., Bishop, S. L., Frank, M. C., Hamlin, J. K., Kline Struhl, M., Landa, R. J., Lew-Williams, C., Libertus, M. E., Luyster, R. J., Markant, J., Sabatos-DeVito, M., Sheinkopf, S. J., Wagner, J. B., ... Jeste, S.** (2025).  
+_Remote Infant Studies of Early Learning (RISE): Scalable online replications of key findings in infant cognitive development._ **Developmental Psychology, 61**(1), 151–167.
+
+---
+
+# Conference Talks and Poster Presentations
+
+- **Gilyard, K., & Bergelson, E.** _Where do New Words Come From? Novel noun learning during naturalistic picture book reading in 14-, 18-, and 22-month-olds._ International Congress on Child Language, Prague, Czech Republic, Jul 2024.
+
+- **Gilyard, K., & Bergelson, E.** _Novel noun learning during naturalistic picture book reading in 14-, 18-, and 22-month-olds._ International Congress on Infant Studies, Glasgow, Scotland, Jul 2024.
+
+- **Luyster, R., Sheinkopf, S.J., Stone, C., Hare, M., Gilyard, K., Vu, M.H., Kline Struhl, M., Lew-Williams, C., Wagner, J., Markant, J., Arunachalam, S., Bergelson, E., Sabatos-DeVito, M., Jeste, S., & Tenenbaum, E.J.**  
+_Pilot Study of the Remote Infant Studies of Early Learning (RISE) Battery._ Meeting of the International Society for Autism Research, Sydney, Australia, May 2024.
+
+- **Gilyard, K., Stone, C., Hare, M., Arunachalam, S., Luyster, R., Landa, R., Bergelson, E., Lew-Williams, C., Frank, M., Sheinkopf, S., Markant, J., Wagner, J., Vu, M., Sabatos-DeVito, M., Jeste, S., Tenenbaum, E.**  
+_Predictive validity of parent-report measures of infant behavior for language development_ [Poster presentation]. Meeting on Language in Autism, Duke University, Durham, NC, Mar 2024.
+
+- **Gilyard, K., Stone, C., Hare, M., Arunachalam, S., Luyster, R., Landa, R., Bergelson, E., Lew-Williams, C., Frank, M., Sheinkopf, S., Markant, J., Wagner, J., Vu, M., Sabatos-DeVito, M., Jeste, S., Tenenbaum, E.**  
+_Pilot Investigation of the Remote Infant Studies of Early Learning (RISE) Battery._ In S. Jeste (Chair), _Neural Circuits to Visual Attention: Biomarkers of Atypical Development in Early Infancy_ [Symposium]. Gatlinburg Conference, Kansas City, MO, April 2024.
+
